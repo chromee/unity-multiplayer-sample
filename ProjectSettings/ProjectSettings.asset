@@ -682,11 +682,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 168ed4ef-9ebb-448d-92dd-42190762d9ec
+  cloudProjectId: a426178c-e79f-4700-a4ee-bd5115e941a4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: ngo-test
-  organizationId: chorome-c
+  organizationId: odk-mmmm
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
